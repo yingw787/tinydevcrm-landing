@@ -26,11 +26,6 @@ logo = "images/logo.png"
 [[Params.listeLangues]]
 code = "en"
 
-# metadata
-author = "Ying Wang"
-copyrightYear = "SOME_YEAR"
-description = "Some description"
-
 [Languages.en]
 weight = 1
 languageCode = "en-us"
@@ -46,14 +41,14 @@ footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
 
+author = "TinyDevCRM"
+copyrightYear = "2020"
+description = "Some description"
+
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Drive your development workflows with your data."
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
+heading = "Drive your development workflows with your data"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
