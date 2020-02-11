@@ -29,12 +29,11 @@ code = "en"
 [Languages.en]
 weight = 1
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "TinyDevCRM | Platform workflows on your data"
 dateFormat = "January 2, 2006"
 
-home = "EN Home"
+home = "Home"
 logo = "images/logo.png"
-menufixed = false
 
 footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
 footerServiceTitle = "Service"
@@ -48,9 +47,8 @@ description = "Some description"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Drive your development workflows with your data"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+heading = "TinyDevCRM helps software engineers compound development workflows on data lakes."
+heroImage = "images/hero.svg"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -98,18 +96,6 @@ btnText = "Contact Us"
 name    = "about"
 url     = "about"
 weight  = 2
-[[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
